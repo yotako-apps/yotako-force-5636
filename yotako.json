@@ -1,0 +1,18 @@
+{
+    "yotako": {
+	"description": "Objective-C ready to use Xcode project automatically created by Yotako from design.",
+	"name": "yotako-objective-c",
+	"version": "^1.0.0",
+	"yotako-version": "^1.0.0",
+	"author": "yotako - hello@yotako.io",
+	"license": "GPL-3.0",
+	"technologies": ["objective-c"]
+    },
+    "stack": {
+	"objectivec": {
+	    "_meta": {
+		"_path": "./App/Base.lproj/"
+	    }
+	}
+    }
+}
